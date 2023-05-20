@@ -46,6 +46,3 @@ def arb_longest_string(*args):
       long = len(a)
       longest = a
   return longest
-
-
-#test
